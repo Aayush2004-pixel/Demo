@@ -1,3 +1,6 @@
 # Demo
 This is my first Git Repository.
-AUTHOR - Aayush Rai
+<Br>
+Author - Aayush Rai
+<Br> 
+I am learning Git & GitHub.
